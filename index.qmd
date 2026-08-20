@@ -1,0 +1,276 @@
+---
+title: "SiriusLynk Consultoría SAS"
+page-layout: full
+toc: false
+title-block-banner: false
+---
+
+::: {.hero-sirius}
+::: {.hero-overlay}
+::: {.hero-content}
+<div class="hero-eyebrow">INGENIERÍA · AGUA · INFRAESTRUCTURA · DATOS</div>
+
+# Ingeniería para sistemas de agua e infraestructura.
+
+<p class="hero-lead">Estudiamos, modelamos, diseñamos y revisamos proyectos integrando ingeniería especializada con gestión digital y trazabilidad de la información.</p>
+
+::: {.hero-actions}
+[Conocer soluciones](soluciones.qmd){.btn .btn-electric .btn-lg}
+[Explorar experiencia](proyectos.qmd){.btn .btn-ghost .btn-lg}
+:::
+
+<div class="hero-proof">Hidrología · Hidráulica · Ambiente · Auditoría técnica · BIM · CDE · Costos · Planificación · Capacitación</div>
+:::
+:::
+:::
+
+::: {.brand-intro}
+::: {.brand-signature}
+![](assets/brand/logo-full.png){fig-alt="SiriusLynk Consultoría SAS"}
+:::
+::: {.brand-message}
+<div class="section-kicker">SIRIUSLYNK CONSULTORÍA SAS</div>
+
+## Diseñar con rigor. Revisar con independencia. Gestionar con trazabilidad.
+
+Conectamos **agua, infraestructura, datos y gestión de información** para transformar problemas complejos en decisiones de ingeniería comprensibles, verificables y útiles para el cliente.
+:::
+:::
+
+:::: {.three-pillars}
+::: {.pillar-card}
+<div class="pillar-index">01</div>
+### Diseñamos
+Estudios, modelación y diseños de ingeniería para recursos hídricos, infraestructura hidráulica y proyectos multidisciplinarios.
+:::
+
+::: {.pillar-card}
+<div class="pillar-index">02</div>
+### Revisamos
+Auditoría y revisión técnica independiente de estudios, modelos, diseños y entregables para propietarios y entidades públicas.
+:::
+
+::: {.pillar-card}
+<div class="pillar-index">03</div>
+### Gestionamos
+BIM, entorno común de datos, control documental y trazabilidad de decisiones para proyectos colaborativos y verificables.
+:::
+::::
+
+::: {.dark-section .experience-section}
+<div class="section-kicker light">EXPERIENCIA APLICADA</div>
+## Sistemas hídricos complejos, distintos contextos de decisión
+
+:::: {.metric-grid}
+::: {.metric-card}
+<div class="metric-value">12</div>
+<div class="metric-label">referencias hidroeléctricas</div>
+<div class="metric-note">Centrales, estudios y repotenciaciones</div>
+:::
+
+::: {.metric-card}
+<div class="metric-value">5</div>
+<div class="metric-label">sistemas de embalse</div>
+<div class="metric-note">Análisis hidrológico y soporte técnico</div>
+:::
+
+::: {.metric-card}
+<div class="metric-value">4</div>
+<div class="metric-label">proyectos mineros</div>
+<div class="metric-note">Disponibilidad, balance y modelación hidrológica</div>
+:::
+
+::: {.metric-card}
+<div class="metric-value">CDE</div>
+<div class="metric-label">gestión digital</div>
+<div class="metric-note">BIM, trazabilidad y colaboración con el cliente</div>
+:::
+::::
+
+[Ver el portafolio](proyectos.qmd){.btn .btn-ghost}
+:::
+
+::: {.section-heading}
+<div class="section-kicker">SOLUCIONES</div>
+## Ingeniería organizada alrededor de las decisiones del proyecto
+<p>Las herramientas cambian según el contexto. El rigor técnico, la trazabilidad y la claridad del entregable se mantienen.</p>
+:::
+
+:::: {.solutions-grid}
+::: {.solution-card}
+<div class="solution-icon">✦</div>
+<div class="solution-tag">RECURSOS HÍDRICOS</div>
+### Entender el agua antes de intervenirla
+Caracterización de cuencas, climatología, disponibilidad, balances, caudales característicos, extremos y soporte a planificación.
+
+[Explorar solución](soluciones.qmd#recursos-hidricos)
+:::
+
+::: {.solution-card}
+<div class="solution-icon">⌁</div>
+<div class="solution-tag">INGENIERÍA HIDRÁULICA</div>
+### Diseñar infraestructura que responda al sistema
+Modelación y diseño para captaciones, drenaje, conducción, estructuras hidráulicas, obras fluviales y sistemas asociados al agua.
+
+[Explorar solución](soluciones.qmd#ingenieria-hidraulica)
+:::
+
+::: {.solution-card}
+<div class="solution-icon">◎</div>
+<div class="solution-tag">AUDITORÍA TÉCNICA</div>
+### Revisar antes de comprometer recursos
+Revisión independiente de criterios, cálculos, modelos, planos y entregables para identificar brechas y riesgos técnicos.
+
+[Conocer auditoría](auditoria.qmd)
+:::
+
+::: {.solution-card}
+<div class="solution-icon">◇</div>
+<div class="solution-tag">INGENIERÍA DIGITAL</div>
+### Hacer visible y trazable el proyecto
+BIM, CDE, automatización, planificación 4D y gestión de costos 5D para conectar información, disciplinas, versiones y decisiones.
+
+[Conocer ingeniería digital](ingenieria-digital.qmd)
+:::
+
+::: {.solution-card}
+<div class="solution-icon">≋</div>
+<div class="solution-tag">AMBIENTE Y CUENCAS</div>
+### Integrar territorio, agua y gestión ambiental
+Manejo de cuencas, gestión ambiental y manejo de residuos sólidos peligrosos y no peligrosos como soporte a proyectos e infraestructura.
+
+[Ver capacidades ambientales](soluciones.qmd#ambiente-y-cuencas)
+:::
+
+::: {.solution-card}
+<div class="solution-icon">↗</div>
+<div class="solution-tag">CAPACITACIÓN TÉCNICA</div>
+### Convertir experiencia aplicada en capacidades del equipo
+Formación en hidráulica, hidrosanitaria, ambiente, preparación de ofertas, costos, precios unitarios, cronogramas y BIM 4D/5D.
+
+[Ver capacitaciones](capacitaciones.qmd)
+:::
+::::
+
+::: {.visual-feature}
+::: {.visual-copy}
+<div class="section-kicker light">INGENIERÍA DIGITAL</div>
+## El proyecto no debería ser una colección de archivos.
+
+Estructuramos la información para que modelos, documentos, revisiones y decisiones puedan seguirse durante el desarrollo del proyecto. El cliente accede a una visión más clara del avance y de los productos que sustentan cada decisión.
+
+[Cómo trabajamos](ingenieria-digital.qmd){.btn .btn-electric}
+:::
+::: {.visual-image}
+![](assets/images/engineering-detail.webp){fig-alt="Representación digital de infraestructura hidráulica en el estilo visual SiriusLynk"}
+:::
+:::
+
+::: {.section-heading}
+<div class="section-kicker">SECTORES</div>
+## Experiencia donde el comportamiento del agua condiciona decisiones críticas
+:::
+
+:::: {.sector-grid}
+::: {.sector-card}
+<div class="sector-number">01</div>
+### Energía hidroeléctrica
+Hidrología para centrales nuevas, existentes y procesos de repotenciación.
+:::
+::: {.sector-card}
+<div class="sector-number">02</div>
+### Presas y embalses
+Análisis hidrológico para disponibilidad, extremos, operación y planificación.
+:::
+::: {.sector-card}
+<div class="sector-number">03</div>
+### Minería
+Disponibilidad hídrica, balance, modelación, abastecimiento y soporte ambiental.
+:::
+::: {.sector-card}
+<div class="sector-number">04</div>
+### Infraestructura pública
+Estudios, diseños, asistencia técnica y revisión independiente para GAD y entidades.
+:::
+::::
+
+[Explorar sectores](sectores.qmd){.btn .btn-outline-brand}
+
+::: {.dark-section .workflow-section}
+<div class="section-kicker light">SISTEMA DE TRABAJO</div>
+## Del dato a una decisión verificable
+
+:::: {.workflow-grid}
+::: {.workflow-step}
+<span>01</span>
+### Comprender
+Objetivo, sistema, información disponible, restricciones y criterios de desempeño.
+:::
+::: {.workflow-step}
+<span>02</span>
+### Modelar
+Datos, territorio, clima, hidrología, hidráulica y escenarios de diseño.
+:::
+::: {.workflow-step}
+<span>03</span>
+### Diseñar o revisar
+Alternativas, cálculos, modelos, planos, riesgos e interfaces entre disciplinas.
+:::
+::: {.workflow-step}
+<span>04</span>
+### Trazar y comunicar
+Versiones, observaciones, decisiones y productos dentro de un flujo digital auditable.
+:::
+::::
+:::
+
+::: {.section-heading}
+<div class="section-kicker">PROYECTOS DESTACADOS</div>
+## La experiencia técnica debe poder demostrarse
+:::
+
+:::: {.featured-projects}
+::: {.featured-project}
+<div class="project-sector">ENERGÍA · HIDROLOGÍA</div>
+### Tambo II
+Caracterización hidrológica para infraestructura de captación: regionalización, curvas de duración, caudal ecológico, crecidas de diseño y sedimentos.
+
+[Ver caso técnico](proyecto-tambo-ii.qmd)
+:::
+
+::: {.featured-project}
+<div class="project-sector">MINERÍA · AGUA</div>
+### Proyecto Minero Cangrejos
+Evaluación climatológica multiescalar, pisos bioclimáticos, series históricas y productos WRF para disponibilidad hídrica y balance estacional.
+
+[Ver portafolio](proyectos.qmd)
+:::
+
+::: {.featured-project}
+<div class="project-sector">MINERÍA · MODELACIÓN</div>
+### Proyecto Minero Cascabel
+Modelación hidrológica semidistribuida de 20 unidades hidrográficas para análisis de capacidad de dilución y condiciones de fondo.
+
+[Ver portafolio](proyectos.qmd)
+:::
+::::
+
+::: {.training-band}
+::: {.training-copy}
+<div class="section-kicker light">CAPACITACIÓN Y TRANSFERENCIA DE CONOCIMIENTO</div>
+## Ingeniería que también fortalece al equipo del cliente.
+Programas técnicos en hidráulica e hidrosanitaria, ambiente, contratación pública, costos, planificación y BIM 4D/5D, estructurados alrededor de problemas y ejercicios aplicados.
+:::
+[Explorar capacitaciones](capacitaciones.qmd){.btn .btn-electric}
+:::
+
+::: {.cta-wide}
+::: {.cta-mark}
+![](assets/brand/logo-mark.png){fig-alt="Isotipo SiriusLynk"}
+:::
+::: {.cta-copy}
+<div class="section-kicker light">SIRIUSLYNK</div>
+## Ingeniería que el cliente puede revisar durante su desarrollo, no únicamente al final.
+:::
+[Conversemos sobre un proyecto](contacto.qmd){.btn .btn-electric .btn-lg}
+:::

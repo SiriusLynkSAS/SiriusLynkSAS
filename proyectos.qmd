@@ -1,0 +1,75 @@
+---
+title: "Proyectos | SiriusLynk"
+description: "Portafolio de experiencia de SiriusLynk en energía hidroeléctrica, embalses, minería y sistemas de agua."
+---
+
+```{r}
+#| include: false
+source("R/project_cards.R")
+proyectos <- read.csv("data/proyectos.csv", check.names = FALSE, fileEncoding = "UTF-8")
+```
+
+::: {.page-hero}
+<div class="page-eyebrow">PROYECTOS Y EXPERIENCIA</div>
+# La capacidad técnica se demuestra en problemas resueltos.
+<p>Organizamos la experiencia por sector y por tipo de decisión de ingeniería para mostrar dónde se han aplicado las capacidades de SiriusLynk.</p>
+:::
+
+::: {.portfolio-note}
+Algunas referencias pueden corresponder a experiencia profesional desarrollada en distintos contextos contractuales. Antes de publicar clientes, montos, documentos o información sensible, debe verificarse la autorización de divulgación correspondiente.
+:::
+
+:::: {.portfolio-summary}
+::: {.summary-box}
+<span>12</span>
+**Hidroeléctricas**
+:::
+::: {.summary-box}
+<span>5</span>
+**Embalses**
+:::
+::: {.summary-box}
+<span>4</span>
+**Minería**
+:::
+::::
+
+## Energía hidroeléctrica
+
+```{r}
+#| results: asis
+render_project_cards(proyectos[proyectos$sector == "Energía hidroeléctrica", ])
+```
+
+## Presas y embalses
+
+```{r}
+#| results: asis
+render_project_cards(proyectos[proyectos$sector == "Presas y embalses", ])
+```
+
+## Minería
+
+```{r}
+#| results: asis
+render_project_cards(proyectos[proyectos$sector == "Minería", ])
+```
+
+## Caso técnico destacado
+
+::: {.case-highlight}
+::: {.case-highlight-copy}
+<div class="project-sector">TAMBO II · ENERGÍA · HIDROLOGÍA</div>
+### De un informe técnico a un caso de ingeniería navegable
+La versión web mostrará el desafío, metodología, indicadores, gráficos y decisiones de diseño sin reproducir la estructura extensa del informe técnico.
+
+[Explorar Tambo II](proyecto-tambo-ii.qmd){.btn .btn-electric}
+:::
+::: {.case-highlight-mark}
+![](assets/brand/logo-mark.png){fig-alt="Isotipo SiriusLynk"}
+:::
+:::
+
+::: {.callout-tip title="Portafolio basado en datos"}
+Esta página se genera desde `data/proyectos.csv`. Para añadir un proyecto, agrega una fila con sector, nombre, ubicación, resumen y especialidades.
+:::

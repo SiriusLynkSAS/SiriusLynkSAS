@@ -1,0 +1,47 @@
+---
+title: "Portal de clientes | SiriusLynk"
+description: "Acceso y filosofía del entorno colaborativo de proyectos de SiriusLynk."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">PORTAL DE CLIENTES</div>
+# El cliente conectado al desarrollo del proyecto.
+<p>Los proyectos que utilizan un entorno común de datos pueden habilitar acceso controlado para revisión de documentación, modelos, observaciones y estados de entrega.</p>
+:::
+
+:::: {.digital-grid}
+::: {.digital-card}
+<div class="card-symbol">01</div>
+### Visibilidad
+Seguimiento de productos y estados de desarrollo según el flujo acordado.
+:::
+::: {.digital-card}
+<div class="card-symbol">02</div>
+### Control
+Versiones y documentos gestionados dentro de una estructura común.
+:::
+::: {.digital-card}
+<div class="card-symbol">03</div>
+### Colaboración
+Observaciones, respuestas y coordinación dentro del entorno del proyecto.
+:::
+::: {.digital-card}
+<div class="card-symbol">04</div>
+### Trazabilidad
+Registro de cambios, decisiones y cierres relevantes para el proyecto.
+:::
+::::
+
+::: {.portal-panel}
+::: {.portal-mark}
+![](assets/brand/logo-mark.png){fig-alt="Isotipo SiriusLynk"}
+:::
+::: {.portal-copy}
+## Acceso al entorno común de datos
+
+En la versión pública final se incorporará aquí el acceso acordado a **Trimble Connect** o al entorno común de datos correspondiente.
+
+No se debe publicar un enlace directo a un proyecto privado ni credenciales de acceso.
+:::
+[Solicitar información de acceso](contacto.qmd){.btn .btn-electric}
+:::

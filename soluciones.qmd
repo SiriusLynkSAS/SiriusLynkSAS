@@ -1,0 +1,146 @@
+---
+title: "Soluciones | SiriusLynk"
+description: "Capacidades de SiriusLynk en recursos hídricos, ingeniería hidráulica, ambiente, ofertas, planificación y gestión de proyectos."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">SOLUCIONES</div>
+# Ingeniería para resolver decisiones, no solo para producir documentos.
+<p>Integramos recursos hídricos, hidráulica, ambiente, territorio, costos, planificación y gestión de información según el problema técnico del proyecto.</p>
+:::
+
+::: {.intro-lead}
+Nuestro trabajo se organiza alrededor de las preguntas que el proyecto necesita responder. **Los métodos son medios; la decisión de ingeniería es el objetivo.**
+:::
+
+## Recursos hídricos {#recursos-hidricos}
+
+:::: {.capability-grid}
+::: {.capability-main}
+### Hidrología y climatología aplicada
+
+- Caracterización hidrológica de cuencas.
+- Análisis y depuración de series hidrometeorológicas.
+- Regionalización y transposición de caudales.
+- Curvas de duración y probabilidades de excedencia.
+- Disponibilidad hídrica y balances estacionales.
+- Caudales característicos y análisis de estiaje.
+- Análisis de máximos y crecidas de diseño.
+- Precipitación de diseño y eventos extremos.
+- Caudales ecológicos, según el alcance del proyecto.
+- Meteorología y climatología aplicada.
+::: 
+
+::: {.capability-side}
+<div class="mini-mark">✦</div>
+**Aplicaciones**
+
+Energía hidroeléctrica · embalses · minería · captaciones · infraestructura pública · ordenación hídrica · soporte ambiental
+:::
+::::
+
+## Ingeniería hidráulica {#ingenieria-hidraulica}
+
+:::: {.feature-pair}
+::: {.feature-copy}
+Desarrollamos y apoyamos diseños para obras, edificaciones y sistemas vinculados al agua, integrando respuesta hidrológica, comportamiento hidráulico, geometría, operación y criterios constructivos.
+
+- Diseño hidrosanitario de edificaciones.
+- Redes de distribución de agua potable.
+- Redes y sistemas de alcantarillado.
+- Conducciones a presión y por gravedad.
+- Sistemas presurizados.
+- Selección y dimensionamiento hidráulico de bombas.
+- Obras de captación y conducción.
+- Drenaje y manejo de escorrentía.
+- Estructuras hidráulicas y cruces.
+- Obras de protección.
+- Modelación hidráulica y evaluación de escenarios.
+- Análisis fluvial, erosión, socavación y sedimentos cuando corresponda.
+- Integración de resultados hidráulicos con documentación de diseño.
+:::
+::: {.feature-visual}
+![](assets/images/engineering-detail.webp){fig-alt="Infraestructura hidráulica representada digitalmente"}
+:::
+::::
+
+## Auditoría y revisión técnica
+
+::: {.statement-band}
+<div class="statement-icon">◎</div>
+<div>
+### ¿La decisión de ingeniería está suficientemente sustentada para avanzar?
+La revisión independiente examina información de entrada, criterios, cálculos, modelaciones, coherencia documental, riesgos y cierre de observaciones.
+</div>
+[Ver auditoría](auditoria.qmd){.btn .btn-electric}
+:::
+
+## Territorio, topografía y datos
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Geomática
+Topografía, modelos digitales del terreno, SIG y bases cartográficas para estudios y diseños.
+:::
+::: {.simple-card}
+### Análisis espacial
+Delimitación de cuencas, variables territoriales e integración de información temática.
+:::
+::: {.simple-card}
+### Datos reproducibles
+Estructuración de bases para análisis verificables, actualizables y conectados con entregables.
+:::
+::::
+
+## Ambiente y cuencas {#ambiente-y-cuencas}
+
+La componente ambiental se integra al análisis del territorio y del sistema hídrico para respaldar decisiones de diseño, manejo y cumplimiento del proyecto.
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Manejo de cuencas
+Análisis y gestión integrada de componentes territoriales e hídricos con enfoque de cuenca.
+:::
+::: {.simple-card}
+### Gestión ambiental
+Soporte técnico para planificación, evaluación, seguimiento y gestión ambiental de proyectos.
+:::
+::: {.simple-card}
+### Residuos sólidos
+Manejo de residuos sólidos no peligrosos y peligrosos dentro del alcance técnico y normativo aplicable.
+:::
+::::
+
+## Ofertas, costos y planificación {#ofertas-planificacion}
+
+SiriusLynk puede apoyar la estructuración técnico-económica de ofertas y la planificación de proyectos, conectando requisitos de contratación, presupuesto, programación y gestión de información.
+
+:::: {.audit-grid}
+::: {.audit-card}
+<div class="card-symbol">01</div>
+### Preparación de ofertas
+Revisión de requisitos, estructuración de componentes técnicos, matrices de cumplimiento y organización de información para procesos de contratación.
+:::
+::: {.audit-card}
+<div class="card-symbol">02</div>
+### Contratación pública
+Capacitación y soporte técnico en el marco normativo y procedimientos aplicables del SERCOP, sin sustituir la asesoría jurídica que corresponda.
+:::
+::: {.audit-card}
+<div class="card-symbol">03</div>
+### Costos y precios unitarios
+Presupuestos, análisis de precios unitarios, estructura de costos y documentación de soporte para ofertas y control de proyecto.
+:::
+::: {.audit-card}
+<div class="card-symbol">04</div>
+### Cronogramas y BIM
+Programación tradicional de obra y su integración digital: **4D para tiempo y secuencia** y **5D para costos y presupuesto**.
+:::
+::::
+
+## Gestión de proyectos
+
+Además del desarrollo técnico, SiriusLynk estructura procesos de coordinación, programación y gestión de información para mejorar seguimiento, trazabilidad y control de entregables.
+
+[Conocer ingeniería digital](ingenieria-digital.qmd){.btn .btn-outline-brand}
+[Ver capacitaciones](capacitaciones.qmd){.btn .btn-electric}

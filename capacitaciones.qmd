@@ -1,0 +1,127 @@
+---
+title: "Capacitaciones | SiriusLynk"
+description: "Capacitación técnica de SiriusLynk en hidráulica, hidrosanitaria, ambiente, ofertas, costos, planificación y BIM."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">CAPACITACIONES</div>
+# Transferencia de conocimiento con enfoque aplicado.
+<p>Programas técnicos orientados a convertir criterios de ingeniería, normativa, cálculo y gestión digital en herramientas que puedan utilizarse dentro del trabajo cotidiano.</p>
+:::
+
+::: {.intro-lead}
+Las capacitaciones de SiriusLynk se estructuran por **problema, nivel técnico y tipo de participante**, combinando fundamentos, criterios de diseño y ejercicios aplicados.
+:::
+
+## Hidráulica e hidrosanitaria {#hidraulica}
+
+:::: {.training-grid}
+::: {.training-card}
+<div class="training-code">H01</div>
+### Hidrosanitaria de edificaciones
+Criterios y flujo de diseño para sistemas hidrosanitarios de edificios, desde demandas y esquemas hasta dimensionamiento y documentación.
+:::
+::: {.training-card}
+<div class="training-code">H02</div>
+### Redes de agua potable
+Diseño y evaluación hidráulica de redes de distribución, presiones, demandas, pérdidas y criterios de operación.
+:::
+::: {.training-card}
+<div class="training-code">H03</div>
+### Alcantarillado
+Criterios de trazado, caudales de diseño, dimensionamiento hidráulico, pendientes y verificación del sistema.
+:::
+::: {.training-card}
+<div class="training-code">H04</div>
+### Conducciones
+Diseño de conducciones a presión y por gravedad, pérdidas de carga, perfiles hidráulicos y criterios de selección.
+:::
+::: {.training-card}
+<div class="training-code">H05</div>
+### Sistemas presurizados
+Análisis de sistemas presurizados, requerimientos de presión, condiciones operativas y revisión de alternativas.
+:::
+::: {.training-card}
+<div class="training-code">H06</div>
+### Selección de bombas
+Determinación del punto de operación, curva del sistema, criterios de selección y revisión hidráulica del equipo.
+:::
+::::
+
+## Ambiente y manejo territorial {#ambiente}
+
+:::: {.training-grid}
+::: {.training-card}
+<div class="training-code">A01</div>
+### Manejo de cuencas
+Conceptos, diagnóstico y herramientas para comprender y gestionar el territorio desde la unidad hidrográfica.
+:::
+::: {.training-card}
+<div class="training-code">A02</div>
+### Gestión ambiental
+Estructuración de criterios y herramientas para gestión, seguimiento y toma de decisiones ambientales en proyectos.
+:::
+::: {.training-card}
+<div class="training-code">A03</div>
+### Manejo de residuos sólidos
+Gestión técnica de residuos sólidos no peligrosos y peligrosos, considerando clasificación, manejo y requisitos aplicables.
+:::
+::::
+
+## Ofertas, costos y contratación pública {#ofertas}
+
+:::: {.feature-pair}
+::: {.feature-copy}
+### De los pliegos a una oferta estructurada
+
+Capacitación para equipos que participan en preparación, revisión o gestión de ofertas, con énfasis en la construcción ordenada del componente técnico y económico.
+
+- Lectura y organización de requisitos de contratación.
+- Matrices de cumplimiento y control documental.
+- Marco normativo y procedimientos aplicables del SERCOP.
+- Costos y presupuestos.
+- Análisis de precios unitarios.
+- Estructuración de cronogramas.
+- Relación entre presupuesto, programación y entregables.
+
+::: {.callout-note title="Alcance"}
+El contenido sobre contratación pública se plantea como capacitación técnica y de gestión. Cuando un tema requiera interpretación jurídica específica, debe complementarse con asesoría legal competente.
+:::
+:::
+::: {.feature-visual}
+![](assets/images/engineering-detail.webp){fig-alt="Ingeniería, información y planificación digital en el estilo SiriusLynk"}
+:::
+::::
+
+## Planificación tradicional, BIM 4D y BIM 5D {#bim45}
+
+::: {.dimension-band}
+<div class="dimension-item"><span>CPM</span><strong>Planificación tradicional</strong><small>Actividades, relaciones, duraciones, ruta crítica, hitos y seguimiento.</small></div>
+<div class="dimension-item"><span>4D</span><strong>Tiempo + modelo</strong><small>Vinculación del cronograma con componentes del modelo para visualizar secuencia y avance.</small></div>
+<div class="dimension-item"><span>5D</span><strong>Costos + información</strong><small>Integración de cantidades, precios, presupuesto y estructura de costos con el entorno BIM.</small></div>
+:::
+
+## Modalidad de los programas
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Por tema
+Módulos específicos para fortalecer una competencia concreta del equipo.
+:::
+::: {.simple-card}
+### Por proyecto
+Contenido estructurado alrededor de un caso, sistema o necesidad técnica determinada.
+:::
+::: {.simple-card}
+### Por flujo de trabajo
+Capacitación que conecta cálculo, documentación, costos, programación y gestión digital de información.
+:::
+::::
+
+::: {.training-cta}
+<div>
+<div class="section-kicker light">CAPACITACIÓN SIRIUSLYNK</div>
+## El objetivo no es memorizar un procedimiento, sino comprender cómo tomar una decisión técnica y poder justificarla.
+</div>
+[Consultar una capacitación](contacto.qmd){.btn .btn-electric}
+:::

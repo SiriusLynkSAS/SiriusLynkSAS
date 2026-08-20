@@ -1,0 +1,62 @@
+---
+title: "Contacto | SiriusLynk"
+description: "Contacto comercial de SiriusLynk Consultoría SAS."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">CONTACTO</div>
+# Conversemos sobre el problema de ingeniería.
+<p>Una primera conversación debe aclarar el objetivo, la información disponible, la decisión que debe tomar el cliente y el nivel de definición requerido.</p>
+:::
+
+:::: {.contact-grid}
+::: {.contact-card}
+<div class="card-symbol">01</div>
+### Estudios y diseños
+Recursos hídricos, hidrología, hidráulica, ambiente, energía, minería e infraestructura.
+:::
+::: {.contact-card}
+<div class="card-symbol">02</div>
+### Revisión independiente
+Auditoría técnica de estudios y diseños para propietarios, GAD y entidades públicas.
+:::
+::: {.contact-card}
+<div class="card-symbol">03</div>
+### Ingeniería digital
+BIM, CDE, trazabilidad, programación 4D, costos 5D y automatización.
+:::
+::: {.contact-card}
+<div class="card-symbol">04</div>
+### Capacitación y ofertas
+Formación técnica, preparación de ofertas, costos, precios unitarios y planificación de proyectos.
+:::
+::::
+
+::: {.contact-panel}
+::: {.contact-logo}
+![](assets/brand/logo-full.png){fig-alt="SiriusLynk Consultoría SAS"}
+:::
+::: {.contact-details}
+## Datos de contacto
+
+**Completar antes de publicar**
+
+- Correo corporativo: `[agregar]`
+- Teléfono: `[agregar]`
+- Ciudad / país: `[agregar]`
+- LinkedIn: `[agregar]`
+- Sitio definitivo: `[agregar]`
+:::
+:::
+
+## Información útil para iniciar
+
+::: {.process-rail .contact-rail}
+<div><span>01</span><strong>Proyecto</strong><small>Tipo y ubicación general</small></div>
+<div><span>02</span><strong>Etapa</strong><small>Prefactibilidad, diseño, revisión, construcción u operación</small></div>
+<div><span>03</span><strong>Decisión</strong><small>Problema técnico que debe resolverse</small></div>
+<div><span>04</span><strong>Información</strong><small>Datos disponibles, plazo e hitos relevantes</small></div>
+:::
+
+[Conocer auditoría técnica](auditoria.qmd){.btn .btn-outline-brand}
+[Ver capacitaciones](capacitaciones.qmd){.btn .btn-electric}

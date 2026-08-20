@@ -1,0 +1,98 @@
+---
+title: "Ingeniería digital | SiriusLynk"
+description: "BIM, ISO 19650, entorno común de datos, trazabilidad y colaboración digital en los proyectos de SiriusLynk."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">INGENIERÍA DIGITAL</div>
+# La información del proyecto también se diseña.
+<p>BIM, CDE, automatización y trazabilidad para que documentos, modelos, revisiones y decisiones formen un sistema coherente.</p>
+:::
+
+:::: {.feature-pair .digital-feature}
+::: {.feature-copy}
+## Gestión de información alineada con ISO 19650
+
+SiriusLynk estructura sus procesos de información tomando como referencia los principios de la serie ISO 19650 para organización, intercambio, revisión y control de la información durante el desarrollo de proyectos.
+
+::: {.callout-note title="Referencia ISO"}
+El sitio utiliza la expresión **“alineado con principios o lineamientos de ISO 19650”**. No implica certificación de SiriusLynk ni de un proyecto específico salvo que exista evidencia formal que permita declararlo.
+:::
+:::
+::: {.feature-visual}
+![](assets/images/engineering-detail.webp){fig-alt="Visualización de infraestructura y datos en estilo SiriusLynk"}
+:::
+::::
+
+## Entorno común de datos
+
+El proyecto se organiza alrededor de un **Common Data Environment (CDE)** para reducir dispersión de archivos y mejorar control de versiones, coordinación y revisión. Cuando corresponde, **Trimble Connect** se utiliza como plataforma colaborativa para consultar productos y avances dentro del entorno acordado.
+
+:::: {.digital-grid}
+::: {.digital-card}
+<div class="card-symbol">01</div>
+### Una fuente controlada
+Documentos, modelos y productos organizados dentro de una estructura común de información.
+:::
+::: {.digital-card}
+<div class="card-symbol">02</div>
+### Versiones visibles
+Estados, revisiones y cambios identificables durante el desarrollo del proyecto.
+:::
+::: {.digital-card}
+<div class="card-symbol">03</div>
+### Observaciones trazables
+Comentarios, responsables, respuestas y cierre de asuntos con evidencia.
+:::
+::: {.digital-card}
+<div class="card-symbol">04</div>
+### Cliente conectado
+Acceso a información de proyecto de acuerdo con permisos, estados y flujos definidos.
+:::
+::::
+
+## BIM como forma de trabajo
+
+::: {.process-rail}
+<div><span>01</span><strong>Requisitos</strong><small>Qué información necesita el proyecto</small></div>
+<div><span>02</span><strong>Producción</strong><small>Modelos, documentos y datos</small></div>
+<div><span>03</span><strong>Coordinación</strong><small>Interfaces, revisiones y decisiones</small></div>
+<div><span>04</span><strong>Entrega</strong><small>Información controlada y trazable</small></div>
+:::
+
+## Planificación 4D y costos 5D
+
+La gestión BIM puede conectar el modelo con otras dimensiones de información del proyecto. Para mantener precisión conceptual, SiriusLynk diferencia claramente **tiempo (4D)** y **costos (5D)**.
+
+::: {.dimension-band}
+<div class="dimension-item"><span>4D</span><strong>Planificación y secuencia</strong><small>Vinculación entre actividades del cronograma y componentes del modelo para revisar secuencias, hitos y avance.</small></div>
+<div class="dimension-item"><span>5D</span><strong>Costos y presupuesto</strong><small>Relación entre cantidades, análisis de costos, presupuesto y elementos de información del proyecto.</small></div>
+<div class="dimension-item"><span>↔</span><strong>Integración</strong><small>Los cronogramas y presupuestos tradicionales siguen siendo la base de control y pueden conectarse progresivamente con el entorno BIM.</small></div>
+:::
+
+[Capacitaciones en planificación y BIM](capacitaciones.qmd#bim45){.btn .btn-outline-brand}
+
+## Automatización y reproducibilidad
+
+Los análisis hidrológicos, hidráulicos, GIS y de datos pueden estructurarse en flujos reproducibles para reducir transcripción manual, facilitar actualizaciones y conectar cálculo con comunicación.
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Datos
+Fuentes organizadas, controles y trazabilidad de información de entrada.
+:::
+::: {.simple-card}
+### Cálculo
+R, GIS y modelos de ingeniería dentro de procesos repetibles y verificables.
+:::
+::: {.simple-card}
+### Entrega
+Informes, tablas, gráficos, páginas de proyecto y resúmenes ejecutivos conectados con una misma fuente.
+:::
+::::
+
+## Mejora continua
+
+Los flujos de revisión y lecciones aprendidas se utilizan para ajustar procedimientos, plantillas, controles y automatizaciones. El objetivo es que cada proyecto deje un sistema de trabajo mejor que el anterior.
+
+[Portal de clientes](portal-clientes.qmd){.btn .btn-electric}

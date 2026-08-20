@@ -1,0 +1,70 @@
+---
+title: "Sectores | SiriusLynk"
+description: "Experiencia sectorial de SiriusLynk en energía hidroeléctrica, embalses, minería e infraestructura pública."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">SECTORES</div>
+# El agua plantea preguntas distintas en cada tipo de proyecto.
+<p>Adaptamos métodos, niveles de detalle y entregables al riesgo, operación y decisión propios de cada sector.</p>
+:::
+
+:::: {.sector-feature-grid}
+::: {.sector-feature-card}
+<div class="sector-code">01 · ENERGÍA</div>
+## Energía hidroeléctrica
+Experiencia reportada en estudios hidrológicos asociados a centrales nuevas, existentes y procesos de repotenciación.
+
+**Tambo I · Tambo II · Milagrito · Milagrito 2 · El Estado 2 · La Florida · Tandayapa · Illuchi 1 · Illuchi 2 · Catazacón · El Estado · Angamarca**
+
+<div class="sector-meta">Disponibilidad · curvas de duración · caudales de diseño · estiajes · extremos · captaciones · repotenciación</div>
+:::
+
+::: {.sector-feature-card}
+<div class="sector-code">02 · EMBALSES</div>
+## Presas y embalses
+Experiencia hidrológica reportada en sistemas donde la comprensión de aportaciones, variabilidad y extremos sustenta decisiones de planificación u operación.
+
+**Toachi · Chone · Poza Grande · La Esperanza · Tahuín**
+
+<div class="sector-meta">Aportaciones · disponibilidad · extremos · balances · planificación</div>
+:::
+::::
+
+## Minería y gestión del agua
+
+:::: {.mining-grid}
+::: {.mining-card}
+<div class="portfolio-sector">EL ORO</div>
+### Proyecto Minero Cangrejos
+Evaluación climatológica multiescalar con zonificación por pisos bioclimáticos, series históricas, datos locales y productos WRF para disponibilidad hídrica y balance estacional.
+:::
+::: {.mining-card}
+<div class="portfolio-sector">IMBABURA</div>
+### Proyecto Minero Cascabel
+Modelación hidrológica semidistribuida de 20 unidades hidrográficas para capacidad de dilución y concentraciones de fondo.
+:::
+::: {.mining-card}
+<div class="portfolio-sector">ZAMORA CHINCHIPE</div>
+### Proyecto Minero Condormining
+Modelación hidrológica semidistribuida de 12 unidades hidrográficas para capacidad de dilución y concentraciones de fondo.
+:::
+::: {.mining-card}
+<div class="portfolio-sector">LOCALIZACIÓN POR CONFIRMAR</div>
+### Proyecto Curimining
+Caracterización hidrológica y validación de caudales de fuentes de abastecimiento mediante aforos, transposición calibrada y probabilidades de excedencia.
+:::
+::::
+
+## Infraestructura pública
+
+::: {.public-sector-band}
+::: {.public-copy}
+SiriusLynk puede desarrollar estudios y diseños y, cuando el cliente lo requiere, actuar como **revisor técnico independiente** para GAD municipales, GAD provinciales, empresas públicas y otras entidades propietarias de infraestructura.
+
+El foco es detectar inconsistencias, supuestos débiles, interfaces no resueltas y riesgos antes de que se trasladen a construcción u operación.
+:::
+[Auditoría técnica](auditoria.qmd){.btn .btn-electric}
+:::
+
+[Explorar todos los proyectos](proyectos.qmd){.btn .btn-outline-brand}

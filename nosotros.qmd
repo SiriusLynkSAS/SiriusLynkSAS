@@ -1,0 +1,107 @@
+---
+title: "Nosotros | SiriusLynk"
+description: "Perfil corporativo, enfoque y principios de SiriusLynk Consultoría SAS."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">SIRIUSLYNK</div>
+# Conectamos ingeniería, agua, datos y personas.
+<p>Una consultora orientada a sistemas de agua e infraestructura, con una forma de trabajo que combina especialización técnica y gestión estructurada de información.</p>
+:::
+
+::: {.brand-about}
+::: {.brand-about-logo}
+![](assets/brand/logo-full.png){fig-alt="Logo SiriusLynk Consultoría SAS"}
+:::
+::: {.brand-about-copy}
+## SiriusLynk Consultoría SAS
+SiriusLynk desarrolla consultoría e ingeniería para proyectos de **agua e infraestructura**, con capacidades en hidrología, hidráulica, diseño, topografía, ambiente, gestión de proyectos, preparación de ofertas, planificación, capacitación y revisión técnica independiente.
+:::
+:::
+
+## Qué conecta SiriusLynk
+
+:::: {.link-grid}
+::: {.link-card}
+<div class="card-symbol">01</div>
+### Agua
+Comprender disponibilidad, variabilidad, extremos e interacción con la infraestructura.
+:::
+::: {.link-card}
+<div class="card-symbol">02</div>
+### Ingeniería
+Transformar análisis y modelos en criterios, alternativas y diseños técnicamente sustentados.
+:::
+::: {.link-card}
+<div class="card-symbol">03</div>
+### Datos
+Estructurar información para que los resultados sean reproducibles, verificables y actualizables.
+:::
+::: {.link-card}
+<div class="card-symbol">04</div>
+### Personas
+Facilitar colaboración entre especialistas, cliente y demás actores mediante procesos claros.
+:::
+::::
+
+## Principios de trabajo
+
+::: {.principles-list}
+<div><strong>Rigor técnico</strong><span>Las conclusiones deben rastrearse hasta datos, criterios, supuestos y cálculos.</span></div>
+<div><strong>Independencia de criterio</strong><span>En revisión técnica, el valor está en identificar lo que debe corregirse o decidirse.</span></div>
+<div><strong>Trazabilidad</strong><span>Versiones, observaciones y decisiones deben permitir reconstruir el proceso.</span></div>
+<div><strong>Colaboración</strong><span>El cliente debe tener visibilidad adecuada del proyecto durante su desarrollo.</span></div>
+<div><strong>Mejora continua</strong><span>Procedimientos, automatizaciones y controles evolucionan con la experiencia.</span></div>
+:::
+
+## Actividades empresariales
+
+La empresa contempla actividades de diseño y consultoría para ingeniería civil, hidráulica y de tráfico; ordenación hídrica; gestión de proyectos de construcción; topografía y estudios hidrológicos; meteorología; consultoría ambiental; revisión/auditoría técnica; capacitación; y apoyo técnico para ofertas, costos y planificación dentro del alcance profesional y contractual aplicable.
+
+:::: {.activity-grid}
+::: {.activity-item}
+**M711022**  
+Diseño y consultoría para ingeniería civil, hidráulica y de tráfico.
+:::
+::: {.activity-item}
+**M711023**  
+Diseño y consultoría para ordenación hídrica.
+:::
+::: {.activity-item}
+**M711025**  
+Gestión de proyectos relacionados con construcción.
+:::
+::: {.activity-item}
+**M711031**  
+Topografía, estudios hidrológicos y estudios de subsuelo.
+:::
+::: {.activity-item}
+**M749015**  
+Pronóstico del tiempo / previsión meteorológica.
+:::
+::: {.activity-item}
+**M749023**  
+Consultoría ambiental.
+:::
+::::
+
+## Capacidades transversales
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Capacitación técnica
+Hidráulica, hidrosanitaria, ambiente, ofertas, costos, programación y BIM orientados a aplicación profesional.
+:::
+::: {.simple-card}
+### Ofertas y costos
+Estructuración técnica de ofertas, presupuestos, análisis de precios unitarios y control documental.
+:::
+::: {.simple-card}
+### Planificación 4D/5D
+Cronogramas tradicionales, BIM 4D para tiempo y secuencia, y BIM 5D para costos e información económica.
+:::
+::::
+
+::: {.callout-note}
+Antes de publicar la versión definitiva conviene contrastar el texto de las actividades económicas y cualquier nueva actividad de auditoría con el RUC/objeto social y la documentación societaria vigente de SiriusLynk.
+:::

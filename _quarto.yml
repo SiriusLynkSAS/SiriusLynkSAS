@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "SiriusLynk"
+  description: "Ingeniería para sistemas de agua e infraestructura. Hidrología, hidráulica, ambiente, auditoría técnica, BIM, planificación y capacitación."
+  favicon: assets/brand/favicon.png
+  page-navigation: true
+  search: false
+  navbar:
+    pinned: true
+    logo: assets/brand/logo-mark-nav.png
+    logo-alt: "SiriusLynk Consultoría SAS"
+    title: "SiriusLynk"
+    left:
+      - text: "Soluciones"
+        menu:
+          - text: "Todas las soluciones"
+            href: soluciones.qmd
+          - text: "Capacitaciones"
+            href: capacitaciones.qmd
+      - text: "Sectores"
+        href: sectores.qmd
+      - text: "Proyectos"
+        href: proyectos.qmd
+      - text: "Auditoría"
+        href: auditoria.qmd
+      - text: "Ingeniería digital"
+        href: ingenieria-digital.qmd
+    right:
+      - text: "Empresa"
+        menu:
+          - text: "Nosotros"
+            href: nosotros.qmd
+          - text: "Contacto"
+            href: contacto.qmd
+      - text: "Portal de clientes"
+        href: portal-clientes.qmd
+  page-footer:
+    border: false
+    left: "© SiriusLynk Consultoría SAS"
+    center: "Ingeniería · Agua · Infraestructura · Datos · Capacitación"
+    right:
+      - text: "Contacto"
+        href: contacto.qmd
+      - text: "Portal de clientes"
+        href: portal-clientes.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-fold: true
+    code-tools: false
+    fig-align: center
+    grid:
+      body-width: 1120px
+      margin-width: 220px
+      gutter-width: 1.8rem
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto
+
+lang: es

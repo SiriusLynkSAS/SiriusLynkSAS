@@ -1,0 +1,22 @@
+sector,proyecto,ubicacion,latitud,longitud,resumen,especialidades,publico
+Energía hidroeléctrica,Tambo I,Ecuador,,,Experiencia hidrológica asociada a aprovechamiento hidroeléctrico.,Hidrología · energía · caudales,sí
+Energía hidroeléctrica,Tambo II,Ecuador,,,"Caracterización hidrológica para infraestructura de captación, incluyendo regionalización, régimen de caudales, crecidas y sedimentos.",Hidrología · captación · crecidas · sedimentos,sí
+Energía hidroeléctrica,Milagrito,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,Milagrito 2,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,El Estado 2,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,La Florida,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,Tandayapa,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,Illuchi 1,Ecuador,,,Experiencia hidrológica para repotenciación de central hidroeléctrica.,Hidrología · repotenciación · energía,sí
+Energía hidroeléctrica,Illuchi 2,Ecuador,,,Experiencia hidrológica para repotenciación de central hidroeléctrica.,Hidrología · repotenciación · energía,sí
+Energía hidroeléctrica,Catazacón,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,El Estado,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Energía hidroeléctrica,Angamarca,Ecuador,,,Experiencia hidrológica asociada a proyecto hidroeléctrico.,Hidrología · energía,sí
+Presas y embalses,Toachi,Ecuador,,,Experiencia en hidrología de embalses y soporte a evaluación del sistema hídrico.,Embalses · hidrología,sí
+Presas y embalses,Chone,Ecuador,,,Experiencia en hidrología de embalses y soporte a evaluación del sistema hídrico.,Embalses · hidrología,sí
+Presas y embalses,Poza Grande,Ecuador,,,Experiencia en hidrología de embalses y soporte a evaluación del sistema hídrico.,Embalses · hidrología,sí
+Presas y embalses,La Esperanza,Ecuador,,,Experiencia en hidrología de embalses y soporte a evaluación del sistema hídrico.,Embalses · hidrología,sí
+Presas y embalses,Tahuín,Ecuador,,,Experiencia en hidrología de embalses y soporte a evaluación del sistema hídrico.,Embalses · hidrología,sí
+Minería,Proyecto Minero Cangrejos,Provincia de El Oro,-3.446,-79.8464,"Evaluación climatológica multiescalar con zonificación por pisos bioclimáticos, integrando series históricas, datos locales y productos WRF para disponibilidad hídrica y balance hídrico estacional.",Climatología · WRF · disponibilidad hídrica · balance,sí
+Minería,Proyecto Minero Cascabel,Provincia de Imbabura,0.8,-78.32,Modelación hidrológica semidistribuida para cuantificar capacidad de dilución y concentraciones de fondo en 20 unidades hidrográficas.,Modelación semidistribuida · dilución · 20 unidades hidrográficas,sí
+Minería,Proyecto Minero Condormining,Provincia de Zamora Chinchipe,-4.0675,-78.5682,Modelación hidrológica semidistribuida para cuantificar capacidad de dilución y concentraciones de fondo en 12 unidades hidrográficas.,Modelación semidistribuida · dilución · 12 unidades hidrográficas,sí
+Minería,Proyecto Curimining,Localización pública por confirmar,,,"Caracterización hidrológica avanzada y validación de caudales en fuentes de abastecimiento, combinando aforos de campo, transposición calibrada y probabilidad de excedencia para gestión sostenible del agua.",Aforos · transposición · excedencia · abastecimiento,sí

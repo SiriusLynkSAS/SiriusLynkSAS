@@ -1,0 +1,66 @@
+---
+title: "Tambo II | SiriusLynk"
+description: "Caso técnico de Tambo II: caracterización, regionalización, caudales, crecidas y sedimentos."
+---
+
+::: {.page-hero .case-page-hero}
+<div class="page-eyebrow">CASO TÉCNICO · ENERGÍA</div>
+# Tambo II
+<p>Hidrología para infraestructura hidroeléctrica: de los datos de cuenca a parámetros útiles para ingeniería.</p>
+:::
+
+::: {.case-status}
+**Estado de integración:** la estructura web está preparada. Los gráficos, mapas y resultados definitivos se conectarán posteriormente al procesamiento de `Informe_Tambo_II.Rmd` para evitar duplicar valores manualmente.
+:::
+
+## El desafío
+
+Caracterizar el comportamiento hidrológico de la cuenca de aporte y generar parámetros útiles para el análisis y diseño de infraestructura de captación asociada al aprovechamiento hidroeléctrico.
+
+## Alcance técnico
+
+:::: {.case-grid}
+::: {.case-card}
+<div class="card-symbol">01</div>
+### Cuenca y territorio
+Morfometría, relieve, cobertura y variables espaciales relevantes para interpretar la respuesta hidrológica.
+:::
+::: {.case-card}
+<div class="card-symbol">02</div>
+### Clima y precipitación
+Caracterización climatológica, estaciones, precipitación y eventos de diseño.
+:::
+::: {.case-card}
+<div class="card-symbol">03</div>
+### Régimen de caudales
+Regionalización, curvas de duración, probabilidades de excedencia y caudales característicos.
+:::
+::: {.case-card}
+<div class="card-symbol">04</div>
+### Extremos y sedimentos
+Crecidas de diseño, análisis de eventos extremos y componentes asociados a sedimentos.
+:::
+::::
+
+## Resultados ejecutivos
+
+Los indicadores definitivos se conectarán desde una fuente de datos común al informe técnico. Esto permitirá que Word y Quarto publiquen exactamente el mismo valor calculado.
+
+::: {.placeholder-panel}
+**Próxima integración**
+
+Área de aporte · curvas de duración · Q50 y percentiles relevantes · caudales de crecida por período de retorno · lluvia de diseño · caudal ecológico · sedimentos · mapas y figuras principales.
+:::
+
+## Trazabilidad del resultado
+
+::: {.process-rail}
+<div><span>01</span><strong>Datos</strong><small>Información hidrometeorológica y territorial</small></div>
+<div><span>02</span><strong>Control</strong><small>Consistencia, regionalización y análisis</small></div>
+<div><span>03</span><strong>Resultados</strong><small>Caudales, extremos y parámetros</small></div>
+<div><span>04</span><strong>Ingeniería</strong><small>Informe técnico + caso web</small></div>
+:::
+
+## Qué demostrará este caso
+
+Más que una lista de cálculos, el caso mostrará cómo SiriusLynk estructura una pregunta de ingeniería, selecciona información, desarrolla análisis, verifica resultados y comunica conclusiones de forma útil para el diseño.

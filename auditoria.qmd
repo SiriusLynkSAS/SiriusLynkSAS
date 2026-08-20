@@ -1,0 +1,103 @@
+---
+title: "Auditoría técnica | SiriusLynk"
+description: "Revisión independiente y aseguramiento técnico de proyectos de agua e infraestructura para entidades públicas y propietarios."
+---
+
+::: {.page-hero}
+<div class="page-eyebrow">AUDITORÍA TÉCNICA</div>
+# Revisar con independencia antes de comprometer recursos.
+<p>Evaluamos la consistencia, suficiencia y trazabilidad técnica de estudios y diseños para apoyar decisiones de propietarios y entidades públicas.</p>
+:::
+
+::: {.intro-lead}
+Recibir entregables no siempre significa disponer de información suficiente para decidir. Una revisión independiente debe identificar **qué está sustentado, qué requiere corrección y qué riesgo permanece abierto**.
+:::
+
+::: {.callout-important title="Alcance del servicio"}
+La auditoría técnica de SiriusLynk se plantea como una revisión de ingeniería. No sustituye auditorías financieras, jurídicas ni competencias formales de fiscalización que deban ser ejercidas por profesionales o entidades habilitadas para ello.
+:::
+
+## Qué podemos revisar
+
+:::: {.audit-grid}
+::: {.audit-card}
+<div class="card-symbol">01</div>
+### Información de entrada
+Fuentes, series, levantamientos, bases cartográficas, criterios adoptados y suficiencia de la información disponible.
+:::
+::: {.audit-card}
+<div class="card-symbol">02</div>
+### Cálculos y modelaciones
+Métodos, supuestos, parámetros, calibraciones, escenarios, sensibilidad y consistencia física de resultados.
+:::
+::: {.audit-card}
+<div class="card-symbol">03</div>
+### Diseños y entregables
+Coherencia entre memorias, modelos, planos, especificaciones, cantidades y criterios de diseño.
+:::
+::: {.audit-card}
+<div class="card-symbol">04</div>
+### Riesgos técnicos
+Vacíos de información, incompatibilidades, decisiones no justificadas y aspectos que puedan afectar construcción, costo u operación.
+:::
+::::
+
+## Flujo de revisión
+
+:::: {.workflow-grid .light-flow}
+::: {.workflow-step}
+<span>01</span>
+### Recepción y alcance
+Inventario de entregables, criterios de aceptación, decisiones críticas y nivel de revisión.
+:::
+::: {.workflow-step}
+<span>02</span>
+### Revisión independiente
+Verificación documental, técnica y cruzada entre disciplinas y productos.
+:::
+::: {.workflow-step}
+<span>03</span>
+### Hallazgos y criticidad
+Observaciones clasificadas por impacto, prioridad, evidencia y responsable de respuesta.
+:::
+::: {.workflow-step}
+<span>04</span>
+### Cierre trazable
+Respuesta del diseñador, revisión de subsanaciones y registro de cierre o pendientes.
+:::
+::::
+
+## Aplicación en GAD y entidades públicas
+
+:::: {.simple-cards}
+::: {.simple-card}
+### Agua y saneamiento
+Agua potable, saneamiento, drenaje, riego y aprovechamiento hídrico.
+:::
+::: {.simple-card}
+### Infraestructura
+Obras hidráulicas e infraestructura vial con componentes hidrológicos e hidráulicos.
+:::
+::: {.simple-card}
+### Planificación
+Estudios de cuenca, ordenación hídrica y proyectos multidisciplinarios con interfaces críticas de agua.
+:::
+::::
+
+## Entregables posibles
+
+- Matriz de observaciones trazable.
+- Informe de revisión independiente.
+- Registro de criterios y decisiones.
+- Matriz de riesgos técnicos.
+- Revisión de respuestas y cierre de observaciones.
+- Tablero ejecutivo de estado, cuando el alcance lo requiera.
+
+::: {.statement-band}
+<div class="statement-icon">◎</div>
+<div>
+### Una observación útil debe poder cerrarse.
+Cada hallazgo debe vincular evidencia, impacto, responsable, respuesta y estado de cierre.
+</div>
+[Conversar sobre una revisión](contacto.qmd){.btn .btn-electric}
+:::
